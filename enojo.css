@@ -1,0 +1,37 @@
+@charset "utf-8";
+.header {
+    padding: 30px;
+    text-align: center;
+    color: #000000;
+    font-size: 30px;
+	background-color: #A40002;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #8B3133;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+color: aliceblue; font-size: 22px;}
+
+ .active {
+  background-color: #62191A;
+  color: white;
+}
+p {text-align: justify left; font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; font-size: 20px;}
+body {background-image:url("Images/lol.jpg")}
+footer {
+  text-align-last: left;
+    width: 96%;
+    padding: 40px; padding-bottom: 15px;
+    clear: both;
+    background: #8B3133;
+	text-align: left;
+    font-size: 120%; color: #FFFFFF; margin: 0;
+}
+h2 {background-color: black;
+  color: white;}
